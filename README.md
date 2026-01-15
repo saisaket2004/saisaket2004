@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Sai Saket
 
-<!--
-**saisaket2004/saisaket2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student passionate about building practical AI and data-driven solutions. 
+I enjoy turning ideas into working systems through hands-on projects, research, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m currently working on
+- AI & ML projects focused on real-world problem solving  
+- Research-oriented projects in machine learning and deep learning  
+- Strengthening Python fundamentals and system-level understanding  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, Java, SQL  
+- **AI/ML:** Machine Learning, Deep Learning, Computer Vision, NLP  
+- **Frameworks & Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow / PyTorch  
+- **Web & Apps:** Streamlit, FastAPI  
+- **Databases & Tools:** MongoDB, Git, GitHub  
+
+---
+
+## 📌 What you’ll find on my GitHub
+- Well-structured AI/ML projects  
+- Academic, hackathon, and research-based work  
+- Clean, readable code with a focus on learning and implementation  
+
+---
+
+## 📫 How to reach me
+- **Email:** tadakamadlasaisaket@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sai-saket-tadakamadla-23nov/  
+- **GitHub:** https://github.com/saisaket2004  
+
+---
+
+⭐ Always open to learning, collaboration, and opportunities to build impactful technology.
